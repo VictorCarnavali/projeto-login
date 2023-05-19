@@ -17,14 +17,14 @@ ghostwhite: #F9F9FF
 
 body, html {
     background-color: #1C0D54;
-    height: 90vh;
-    width: 90vw;
+    height: 100vh;
+    width: 100vw;
 }
 
 main {
     position: relative;
-    height: 100vh;
-    width: 100vw;
+    height: 90vh;
+    width: 90vw;
 }
 
 section#login {
@@ -34,7 +34,7 @@ section#login {
     transform: translate(-50%, -50%);
     overflow: hidden;
 
-    background-color: #F9F9FF;
+    background-color: #3f3f8b;
     width: 250px;
     height: 500px;
     border-radius: 30px;
